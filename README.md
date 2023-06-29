@@ -8,4 +8,4 @@ Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The appli
 
 ## About
 
-Its a simple Angular Calculator made from scratch. Just to Practice some angular basics. 
+It's a simple Angular calculator created from scratch, just to practice some basic Angular concepts.
